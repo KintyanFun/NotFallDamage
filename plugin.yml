@@ -1,0 +1,9 @@
+name: NotFallDamage
+main: NotFallDamage\Main
+version: 1.0.0
+api:
+- 3.0.0
+- 2.0.0
+- 2.1.0
+author: KintyanFun
+description: 落下ダメージを無効かさせるPluginです。落下ダメージイベントをキャンセルさせてるだけの結構簡単なものです
